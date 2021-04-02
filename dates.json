@@ -1,0 +1,69 @@
+{
+    "5fe75e7b04d5c": {
+        "date": "2021-01-10",
+        "time": "17:00",
+        "capacity": 3,
+        "claimed": 3,
+        "users": {
+            "1": "5fe7882e01336",
+            "2": "5fe884cd6ba44",
+            "3": "5fe8853696a14"
+        },
+        "id": "5fe75e7b04d5c"
+    },
+    "5fe75f3535aca": {
+        "date": "2021-01-14",
+        "time": "15:00",
+        "capacity": 10,
+        "claimed": 1,
+        "users": [
+            "5fe7325b4d4c9"
+        ],
+        "id": "5fe75f3535aca"
+    },
+    "5fe7656f3a5f2": {
+        "date": "2021-01-06",
+        "time": "19:30",
+        "capacity": 5,
+        "claimed": 0,
+        "users": [],
+        "id": "5fe7656f3a5f2"
+    },
+    "5fe76a08c0d02": {
+        "date": "2021-01-14",
+        "time": "14:00",
+        "capacity": 5,
+        "claimed": 0,
+        "users": [],
+        "id": "5fe76a08c0d02"
+    },
+    "5fe77d1458946": {
+        "date": "2021-03-10",
+        "time": "12:00",
+        "capacity": 5,
+        "claimed": 2,
+        "users": [
+            "5fe8a0f7a9f9d",
+            "5fe8a1d65e157"
+        ],
+        "id": "5fe77d1458946"
+    },
+    "5fe77d502b3fd": {
+        "date": "2021-02-11",
+        "time": "13:00",
+        "capacity": 5,
+        "claimed": 1,
+        "users": [
+            "5fe885db6af1f"
+        ],
+        "id": "5fe77d502b3fd"
+    },
+    "5fe77d9c68148": {
+        "date": "2021-02-14",
+        "time": "10:00",
+        "capacity": 3,
+        "claimed": 0,
+        "users": [],
+        "id": "5fe77d9c68148"
+    }
+}

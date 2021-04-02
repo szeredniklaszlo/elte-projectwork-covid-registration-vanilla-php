@@ -1,0 +1,75 @@
+{
+    "5fe71112b4d51": {
+        "fullName": "Admin",
+        "TAJnumber": "",
+        "mailAddress": "",
+        "claimedDateId": "",
+        "emailAddress": "admin@nemkovid.hu",
+        "password": "$2y$10$LBjwugTGoDU3\/OSa07P1oOzAGW8bbezasC2iuPr6Xbsp53Lu9BvAW",
+        "isAdmin": true,
+        "id": "5fe71112b4d51"
+    },
+    "5fe7325b4d4c9": {
+        "fullName": "teszt",
+        "TAJnumber": "123123123",
+        "mailAddress": "Budapest",
+        "claimedDateId": "5fe75f3535aca",
+        "emailAddress": "laszlotamas2000@index.hu",
+        "password": "$2y$10$wd00gkVMlvn.M5hitZToGuX8bw5vfykzHQLfwYu5PK8JcTDMXxvZa",
+        "id": "5fe7325b4d4c9"
+    },
+    "5fe7882e01336": {
+        "fullName": "tesztteszt",
+        "TAJnumber": "333222111",
+        "mailAddress": "Budapest, Parlament",
+        "claimedDateId": "5fe75e7b04d5c",
+        "emailAddress": "idk@idk.hu",
+        "password": "$2y$10$0dNKjkxBW7GWZjRXVOYa\/uikcO0pEi\/NutomF3f6me2tWUwUrT1cK",
+        "id": "5fe7882e01336"
+    },
+    "5fe884cd6ba44": {
+        "fullName": "Gipsz Jakab",
+        "TAJnumber": "222555888",
+        "mailAddress": "Kisk\u0151r\u00f6s, Pet\u0151fi u. 4.",
+        "claimedDateId": "5fe75e7b04d5c",
+        "emailAddress": "gipszjakab@gmail.com",
+        "password": "$2y$10$O9RYLel8tv7WDWVdDEquG.afOd5QJw44p3q2UFsQC22I4h9zprrQa",
+        "id": "5fe884cd6ba44"
+    },
+    "5fe8853696a14": {
+        "fullName": "Makai Jen\u0151",
+        "TAJnumber": "386452978",
+        "mailAddress": "Budapest, Nyugati t\u00e9r 1.",
+        "claimedDateId": "5fe75e7b04d5c",
+        "emailAddress": "makai.j@citromail.hu",
+        "password": "$2y$10$oUrwCeTPjLTa2DELd1DkSufg9uu9TDfhR1wqM0NcK4.iQ9.5gBtq6",
+        "id": "5fe8853696a14"
+    },
+    "5fe885db6af1f": {
+        "fullName": "Szekeres B\u00f6zsi",
+        "TAJnumber": "385229816",
+        "mailAddress": "Lekv\u00e1rosd",
+        "claimedDateId": "5fe77d502b3fd",
+        "emailAddress": "sz.bozskos@gmail.com",
+        "password": "$2y$10$r7vLTI9m1HaN.mKwO0KN.Ov47fGPtIJKn7Gu72sP2o2lOEPoHhqe2",
+        "id": "5fe885db6af1f"
+    },
+    "5fe8a0f7a9f9d": {
+        "fullName": "lastTest",
+        "TAJnumber": "321654987",
+        "mailAddress": "Budapest, T\u00f6k u. 69.",
+        "claimedDateId": "5fe77d1458946",
+        "emailAddress": "ultimateTester@gmail.comb",
+        "password": "$2y$10$cR38tCFru4FI\/6tOCVquvOcsd.YxtPnrBa7y.eXhUR0k\/gBPIiYAy",
+        "id": "5fe8a0f7a9f9d"
+    },
+    "5fe8a1d65e157": {
+        "fullName": "any\u00e1d fasza",
+        "TAJnumber": "696969696",
+        "mailAddress": "XDDDDDDDD",
+        "claimedDateId": "5fe77d1458946",
+        "emailAddress": "kys@gmail.com",
+        "password": "$2y$10$jSYH7cowPUo6QnBMSXh5IOC5kY13PBYiWxWeRwgAUttEZk9gzQHvK",
+        "id": "5fe8a1d65e157"
+    }
+}
